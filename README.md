@@ -31,13 +31,25 @@ The dataset includes the following attributes:
 *Consumer Price Index and Mortgage Rate Trends*
 
 ## How to Run
-1. Clone this repository:
-git clone https://github.com/yourusername/us_housing_market_analysis.git
+1. Clone this repository (using Git):
 
+   ```bash
+   git clone https://github.com/yourusername/us_housing_market_analysis.git
 
 2. Install required packages:
-pip install -r requirements.txt
 
-3. Open and run the notebook:
-jupyter notebook notebooks/us_housing_macro_analysis.ipynb
+   ```bash
+   pip install -r requirements.txt
+
+3. Open and run the notebook (using Jupyter):
+
+   ```bash
+   jupyter notebook notebooks/us_housing_macro_analysis.ipynb
+
+   
+## Credits
+This project is part of the IBM Data Analyst Professional Certificate on Coursera.
+
+© IBM Corporation 2025
+
 
