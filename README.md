@@ -1,6 +1,6 @@
 # US Housing Market Macroeconomic Factors Analysis
 
-![Housing Market](images/housing-cover.jpg)
+![Housing Market](images/housing-cover.png)
 
 ## Project Overview
 This project analyzes the US housing market based on various macroeconomic factors using data from the IBM Data Analyst Professional Certificate on Coursera. The goal is to understand how different economic indicators relate to housing prices over time.
