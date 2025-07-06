@@ -46,6 +46,10 @@ The dataset includes the following attributes:
    ```bash
    jupyter notebook notebooks/us_housing_macro_analysis.ipynb
 
+## Author
+
+Ersin Tepegöz  
+[LinkedIn](https://www.linkedin.com/in/ersin-tepeg%C3%B6z-8710ab366/) | [GitHub](https://github.com/tepegozersin)
    
 ## Credits
 This project is part of the IBM Data Analyst Professional Certificate on Coursera.
